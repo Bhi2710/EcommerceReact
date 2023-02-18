@@ -1,0 +1,10 @@
+/* Navbar */
+
+.navbar-nav a{
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.hero .card > img{
+  transform: rotateY(180deg);
+}
